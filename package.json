@@ -2,7 +2,7 @@
   "name": "websocket",
   "version": "1.0.0",
   "description": "Websocket connection to send message for server to client",
-  "main": "index.js",
+  "main": "/demo3/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
